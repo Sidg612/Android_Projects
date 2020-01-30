@@ -198,6 +198,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             isEnabled=false
             setText(text)
+
+
         }
 
 
